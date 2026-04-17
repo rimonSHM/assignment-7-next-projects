@@ -19,7 +19,7 @@ const TimelinePage = () => {
     <main className="min-h-screen bg-[#F8FAFC] py-12 px-4">
       <div className="max-w-3xl mx-auto">
         
-        {/* Header Section */}
+        
         <div className="text-center mb-10">
           <h1 className="text-4xl font-bold text-slate-800 mb-6">Timeline</h1>
           
@@ -34,7 +34,7 @@ const TimelinePage = () => {
           </div>
         </div>
 
-        {/* Timeline Entries */}
+     
         <div className="space-y-3">
           {entries.map((entry) => (
             <div 
@@ -67,6 +67,5 @@ const TimelinePage = () => {
 export default TimelinePage; 
 
 
-// app/timeline/page.js
 
 
