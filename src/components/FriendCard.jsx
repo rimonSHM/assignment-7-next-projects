@@ -1,3 +1,5 @@
+// FriendCard 
+
 "use client";
 import Link from "next/link";
 
@@ -34,7 +36,7 @@ export default function FriendCard({ friend }) {
           "{friend.bio?.substring(0, 30)}..."
         </p>
 
-        {/* Tags - Light gray rounded pills */}
+       
         <div className="flex flex-wrap justify-center gap-2 mt-4">
           {friend.tags?.map((tag, i) => (
             <span key={i} className="text-[10px] font-bold uppercase bg-slate-100 text-slate-500 px-3 py-1 rounded-full">
