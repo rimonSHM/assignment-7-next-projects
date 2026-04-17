@@ -5,9 +5,9 @@ import { PieChart, Pie, Cell, ResponsiveContainer, Legend, Tooltip } from "recha
 const StatsPage = () => {
   // Figma design onujayi demo data
   const data = [
-    { name: "Text", value: 30, color: "#8B5CF6" }, // Purple
-    { name: "Call", value: 45, color: "#1E3932" }, // Dark Green (Design primary color)
-    { name: "Video", value: 25, color: "#22C55E" }, // Green
+    { name: "Text", value: 30, color: "#8B5CF6" }, 
+    { name: "Call", value: 45, color: "#1E3932" }, 
+    { name: "Video", value: 25, color: "#22C55E" }, 
   ];
 
   return (
@@ -32,7 +32,7 @@ const StatsPage = () => {
                   data={data}
                   cx="50%"
                   cy="45%"
-                  innerRadius={85} // Doughnut hole size
+                  innerRadius={85} 
                   outerRadius={130}
                   paddingAngle={8}
                   dataKey="value"
