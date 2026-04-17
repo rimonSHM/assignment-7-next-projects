@@ -1,3 +1,6 @@
+// Navbar next.js
+
+
 "use client";
 
 import React from 'react';
@@ -23,7 +26,7 @@ const Navbar = () => {
           KeenKeeper
         </Link>
 
-        {/* Navigation */}
+        
         <nav className="flex items-center gap-4">
           {navItems.map((item) => {
             const isActive = pathname === item.path;

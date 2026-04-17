@@ -122,35 +122,25 @@ const Footer = () => {
         {/* Social Links */}
         <div className="mb-12">
           <h3 className="text-sm font-semibold uppercase tracking-widest mb-4">Social Links</h3>
-          {/* <div className="flex gap-4 justify-center">
-            <a href="#" className="bg-white text-[#244D3F] p-2 rounded-full hover:bg-gray-200 transition">
-              <FaYoutube size={20} />
-            </a>
-            <a href="#" className="bg-white text-[#244D3F] p-2 rounded-full hover:bg-gray-200 transition">
-              <FaFacebook size={20} />
-            </a>
-            <a href="#" className="bg-white text-[#244D3F] p-2 rounded-full hover:bg-gray-200 transition">
-              <FaTwitter size={20} />
-            </a>
-          </div> */}
+       
 
 
           <div className="flex gap-4 justify-center">
-  {/* YouTube */}
-  <a href="#" className="bg-white text-[#244D3F] p-2 rounded-full hover:bg-[#FF0000] hover:text-white hover:scale-110 hover:shadow-lg transition-all duration-300 transform">
-    <FaYoutube size={20} />
-  </a>
+            {/* YouTube */}
+              <a href="#" className="bg-white text-[#244D3F] p-2 rounded-full hover:bg-[#FF0000] hover:text-white hover:scale-110 hover:shadow-lg transition-all duration-300 transform">
+                <FaYoutube size={20} />
+            </a>
   
-  {/* Facebook */}
-  <a href="#" className="bg-white text-[#244D3F] p-2 rounded-full hover:bg-[#1877F2] hover:text-white hover:scale-110 hover:shadow-lg transition-all duration-300 transform">
-    <FaFacebook size={20} />
-  </a>
+            {/* Facebook */}
+            <a href="#" className="bg-white text-[#244D3F] p-2 rounded-full hover:bg-[#1877F2] hover:text-white hover:scale-110 hover:shadow-lg transition-all duration-300 transform">
+            <FaFacebook size={20} />
+             </a>
   
-  {/* Twitter/X */}
-  <a href="#" className="bg-white text-[#244D3F] p-2 rounded-full hover:bg-[#1DA1F2] hover:text-white hover:scale-110 hover:shadow-lg transition-all duration-300 transform">
-    <FaTwitter size={20} />
-  </a>
-</div>
+           {/* Twitter/X */}
+           <a href="#" className="bg-white text-[#244D3F] p-2 rounded-full hover:bg-[#1DA1F2] hover:text-white hover:scale-110 hover:shadow-lg transition-all duration-300 transform">
+           <FaTwitter size={20} />
+           </a>
+           </div>
         </div>
 
         {/* Bottom Bar */}
