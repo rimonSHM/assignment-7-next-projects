@@ -1,4 +1,4 @@
-
+// Hero Banner
 import React from 'react';
 
 const HeroBanner = () => {
