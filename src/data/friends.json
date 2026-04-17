@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Alex Johnson",
+    "picture": "https://randomuser.me/api/portraits/men/32.jpg",
+    "email": "alex.johnson@gmail.com",
+    "days_since_contact": 18,
+    "status": "overdue",
+    "tags": ["college", "gym"],
+    "bio": "Met during university. We still train together whenever possible.",
+    "goal": 14,
+    "next_due_date": "2025-07-20"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Williams",
+    "picture": "https://randomuser.me/api/portraits/women/44.jpg",
+    "email": "sarah.williams@gmail.com",
+    "days_since_contact": 10,
+    "status": "almost due",
+    "tags": ["work", "design"],
+    "bio": "Colleague from my last job. We often discuss UI/UX trends.",
+    "goal": 12,
+    "next_due_date": "2025-07-15"
+  },
+  {
+    "id": 3,
+    "name": "Michael Chen",
+    "picture": "https://randomuser.me/api/portraits/men/76.jpg",
+    "email": "michael.chen@gmail.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["startup", "tech"],
+    "bio": "Met at a startup event. We share business ideas regularly.",
+    "goal": 10,
+    "next_due_date": "2025-07-25"
+  },
+  {
+    "id": 4,
+    "name": "Emily Rodriguez",
+    "picture": "https://randomuser.me/api/portraits/women/65.jpg",
+    "email": "emily.rodriguez@gmail.com",
+    "days_since_contact": 25,
+    "status": "overdue",
+    "tags": ["school", "music"],
+    "bio": "High school friend. We play guitar and sing together occasionally.",
+    "goal": 21,
+    "next_due_date": "2025-07-10"
+  },
+  {
+    "id": 5,
+    "name": "David Kim",
+    "picture": "https://randomuser.me/api/portraits/men/45.jpg",
+    "email": "david.kim@gmail.com",
+    "days_since_contact": 7,
+    "status": "on-track",
+    "tags": ["coding", "gaming"],
+    "bio": "Met at a hackathon. We still compete in coding challenges.",
+    "goal": 14,
+    "next_due_date": "2025-07-22"
+  },
+  {
+    "id": 6,
+    "name": "Priya Patel",
+    "picture": "https://randomuser.me/api/portraits/women/22.jpg",
+    "email": "priya.patel@gmail.com",
+    "days_since_contact": 12,
+    "status": "almost due",
+    "tags": ["yoga", "food"],
+    "bio": "Yoga buddy and foodie friend. We try new restaurants every month.",
+    "goal": 18,
+    "next_due_date": "2025-07-18"
+  },
+  {
+    "id": 7,
+    "name": "James Thompson",
+    "picture": "https://randomuser.me/api/portraits/men/88.jpg",
+    "email": "james.thompson@gmail.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["football", "travel"],
+    "bio": "Old football teammate. We plan trips together whenever possible.",
+    "goal": 30,
+    "next_due_date": "2025-08-05"
+  },
+  {
+    "id": 8,
+    "name": "Sophia Garcia",
+    "picture": "https://randomuser.me/api/portraits/women/33.jpg",
+    "email": "sophia.garcia@gmail.com",
+    "days_since_contact": 20,
+    "status": "overdue",
+    "tags": ["photography", "art"],
+    "bio": "Met at a photography workshop. We still go on photo walks.",
+    "goal": 15,
+    "next_due_date": "2025-07-12"
+  },
+  {
+    "id": 9,
+    "name": "Liam Dubois",
+    "picture": "https://randomuser.me/api/portraits/men/51.jpg",
+    "email": "liam.dubois@gmail.com",
+    "days_since_contact": 8,
+    "status": "almost due",
+    "tags": ["books", "coffee"],
+    "bio": "Book club friend. We meet every month to discuss our latest reads.",
+    "goal": 20,
+    "next_due_date": "2025-07-17"
+  },
+  {
+    "id": 10,
+    "name": "Aisha Khan",
+    "picture": "https://randomuser.me/api/portraits/women/55.jpg",
+    "email": "aisha.khan@gmail.com",
+    "days_since_contact": 4,
+    "status": "on-track",
+    "tags": ["dance", "fashion"],
+    "bio": "Dance partner from salsa classes. We still practice together.",
+    "goal": 16,
+    "next_due_date": "2025-07-28"
+  }
+]
